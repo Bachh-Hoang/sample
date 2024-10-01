@@ -9,4 +9,4 @@ Wirte anything here
 ## Level 2 again
 lalala
 
-![](images/bird.jpg)
+![](images/bird.jpeg)
