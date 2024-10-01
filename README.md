@@ -1,3 +1,10 @@
 # Title of my website
 
-Write anything here
+## Level 2 heading
+Write something here
+
+### Level 3 heading
+Wirte anything here
+
+## Level 2 again
+lalala
